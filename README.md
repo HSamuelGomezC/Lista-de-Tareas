@@ -8,3 +8,6 @@ Lista de tareas utilizando HTML, CSS y JS
 
 ### Utilizando VisualStudio Code, abra la carpeta donde guardó los documentos
 ![image](https://github.com/user-attachments/assets/5b0f6d5a-5a46-4e3d-95dc-1a19472bf007)
+
+### Es recomendable que instale la extension de Live Server en Visual Studio, para facilitar el uso del programa
+![image](https://github.com/user-attachments/assets/8b7e14c8-cb7e-4a2a-8c3d-58f54ee85c77)
