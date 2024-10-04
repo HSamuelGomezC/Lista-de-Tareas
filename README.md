@@ -6,3 +6,5 @@ Lista de tareas utilizando HTML, CSS y JS
 #### Una vez descargados, guardelos en una carpeta 
 ![image](https://github.com/user-attachments/assets/a3c9f293-82ec-4a60-93c7-e3831816078e)
 
+### Utilizando VisualStudio Code, abra la carpeta donde guardó los documentos
+![image](https://github.com/user-attachments/assets/5b0f6d5a-5a46-4e3d-95dc-1a19472bf007)
