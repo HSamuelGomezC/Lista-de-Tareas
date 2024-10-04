@@ -14,3 +14,6 @@ Lista de tareas utilizando HTML, CSS y JS
 
 ### Una vez instalada la extension, aparecerá el siguiente boton, haga click en él
 ![image](https://github.com/user-attachments/assets/e1eca3b7-e532-4527-a314-475d62669aea)
+
+### Y automaticamente se abrira en una ventana de su navegador la aplicacion lista para usar
+![image](https://github.com/user-attachments/assets/d279f97e-115d-4ba7-9c21-fc513870ecb5)
