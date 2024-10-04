@@ -11,3 +11,6 @@ Lista de tareas utilizando HTML, CSS y JS
 
 ### Es recomendable que instale la extension de Live Server en Visual Studio, para facilitar el uso del programa
 ![image](https://github.com/user-attachments/assets/8b7e14c8-cb7e-4a2a-8c3d-58f54ee85c77)
+
+### Una vez instalada la extension, aparecerá el siguiente boton, haga click en él
+![image](https://github.com/user-attachments/assets/e1eca3b7-e532-4527-a314-475d62669aea)
